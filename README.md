@@ -1,5 +1,5 @@
 # A2OJ-Ladder
-
+<b>Reminder to code for atleast an  hour a day</b>
 | Checkbox | ID  | Name | Problems Count |
 |---|:---:|:---:|---|
 |<ul><li>- [ ] Done</li></ul>|11|[Codeforces Rating < 1300](ladders/11.%20Codeforces%20Rating%20%3C%201300/README.md)|100|
